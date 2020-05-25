@@ -1,0 +1,26 @@
+5
+13
+A a D0
+A a A
+A a S
+B c D0
+B c S
+S a D0
+S a A
+S b D0
+S b B
+S1 a D0
+S1 a A
+S1 b D0
+S1 b B
+S1
+2
+S1 D0
+Numarul de stari al dfa-ului echivalent:6
+Starile sunt:
+{0 }
+{1 4 }
+{2 4 }
+{}
+{1 4 19 }
+{4 19 }
